@@ -1,0 +1,42 @@
+[
+  {
+    "username": "hang",
+    "password": "12345",
+    "result": "Tài khoản không tồn tại"
+  },
+  {
+    "username": "das",
+    "password": "12345",
+    "result": "Mật khẩu phải có ít nhất 6 ký tự"
+  },
+  {
+    "username": "0971548787",
+    "password": "123456",
+    "result": "Đăng nhập thành công"
+  },
+  {
+    "username": " ",
+    "password": " ",
+    "result": "Mật khẩu phải có ít nhất 6 ký tự"
+  },
+  {
+    "username": "thanh",
+    "password": " ",
+    "result": "Mật khẩu phải có ít nhất 6 ký tự"
+  },
+  {
+    "username": " ",
+    "password": "12345",
+    "result": "Mật khẩu phải có ít nhất 6 ký tự"
+  },
+  {
+    "username": "123",
+    "password": "123",
+    "result": "Tài khoản không tồn tại"
+  },
+  {
+    "username": "123",
+    "password": "sffccc",
+    "result": ""
+  }
+]
